@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串实现", "字符串实现\字符串实现.vcxproj", "{0AA75163-D33E-4979-B162-C387E543BB12}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串字母数量", "字符串字母数量\字符串字母数量.vcxproj", "{81629F65-113B-4166-B031-0F5E7C90E3E8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串字母输出", "字符串字母输出\字符串字母输出.vcxproj", "{A0E544AA-7606-4115-9F50-030C25504337}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串翻转", "字符串翻转\字符串翻转.vcxproj", "{4C4F4B0F-0DF6-4B72-BD98-F93F4D1C0BB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA75163-D33E-4979-B162-C387E543BB12}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0AA75163-D33E-4979-B162-C387E543BB12}.Debug|Win32.Build.0 = Debug|Win32
+		{0AA75163-D33E-4979-B162-C387E543BB12}.Release|Win32.ActiveCfg = Release|Win32
+		{0AA75163-D33E-4979-B162-C387E543BB12}.Release|Win32.Build.0 = Release|Win32
+		{81629F65-113B-4166-B031-0F5E7C90E3E8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{81629F65-113B-4166-B031-0F5E7C90E3E8}.Debug|Win32.Build.0 = Debug|Win32
+		{81629F65-113B-4166-B031-0F5E7C90E3E8}.Release|Win32.ActiveCfg = Release|Win32
+		{81629F65-113B-4166-B031-0F5E7C90E3E8}.Release|Win32.Build.0 = Release|Win32
+		{A0E544AA-7606-4115-9F50-030C25504337}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A0E544AA-7606-4115-9F50-030C25504337}.Debug|Win32.Build.0 = Debug|Win32
+		{A0E544AA-7606-4115-9F50-030C25504337}.Release|Win32.ActiveCfg = Release|Win32
+		{A0E544AA-7606-4115-9F50-030C25504337}.Release|Win32.Build.0 = Release|Win32
+		{4C4F4B0F-0DF6-4B72-BD98-F93F4D1C0BB0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C4F4B0F-0DF6-4B72-BD98-F93F4D1C0BB0}.Debug|Win32.Build.0 = Debug|Win32
+		{4C4F4B0F-0DF6-4B72-BD98-F93F4D1C0BB0}.Release|Win32.ActiveCfg = Release|Win32
+		{4C4F4B0F-0DF6-4B72-BD98-F93F4D1C0BB0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

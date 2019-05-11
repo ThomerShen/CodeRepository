@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\fenghua\desktop\code\c语言100个算法经典例题\程序13水仙花\main.c(18): warning C4013: “system”未定义；假设外部返回 int
+c:\users\fenghua\desktop\code\c语言100个算法经典例题\程序13水仙花\main.c(6): warning C4101: “n”: 未引用的局部变量
+  程序13水仙花.vcxproj -> C:\Users\FENGHUA\Desktop\code\C语言100个算法经典例题\Debug\程序13水仙花.exe

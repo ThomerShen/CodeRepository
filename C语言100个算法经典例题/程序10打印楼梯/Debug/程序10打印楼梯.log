@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\fenghua\desktop\code\c语言100个算法经典例题\程序10打印楼梯\main.cpp(6): warning C4101: “j”: 未引用的局部变量
+c:\users\fenghua\desktop\code\c语言100个算法经典例题\程序10打印楼梯\main.cpp(6): warning C4101: “i”: 未引用的局部变量
+  程序10打印楼梯.vcxproj -> C:\Users\FENGHUA\Desktop\code\C语言100个算法经典例题\Debug\程序10打印楼梯.exe

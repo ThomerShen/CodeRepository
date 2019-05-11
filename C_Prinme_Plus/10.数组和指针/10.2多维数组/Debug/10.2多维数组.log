@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\fenghua\desktop\code\c_prinme_plus\10.数组和指针\10.2多维数组\main.c(42): warning C4013: “system”未定义；假设外部返回 int
+c:\users\fenghua\desktop\code\c_prinme_plus\10.数组和指针\10.2多维数组\main.c(10): warning C4305: “初始化”: 从“double”到“const float”截断
+c:\users\fenghua\desktop\code\c_prinme_plus\10.数组和指针\10.2多维数组\main.c(11): warning C4305: “初始化”: 从“double”到“const float”截断
+c:\users\fenghua\desktop\code\c_prinme_plus\10.数组和指针\10.2多维数组\main.c(12): warning C4305: “初始化”: 从“double”到“const float”截断
+c:\users\fenghua\desktop\code\c_prinme_plus\10.数组和指针\10.2多维数组\main.c(13): warning C4305: “初始化”: 从“double”到“const float”截断
+c:\users\fenghua\desktop\code\c_prinme_plus\10.数组和指针\10.2多维数组\main.c(14): warning C4305: “初始化”: 从“double”到“const float”截断
+  10.2多维数组.vcxproj -> C:\Users\FENGHUA\Desktop\code\C_Prinme_Plus\10.数组和指针\Debug\10.2多维数组.exe

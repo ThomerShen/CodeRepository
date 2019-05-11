@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\fenghua\desktop\code\c语言100个算法经典例题\程序49ifndef 的综合应用\main.c(45): warning C4013: “getch”未定义；假设外部返回 int
+  程序49ifndef 的综合应用.vcxproj -> C:\Users\FENGHUA\Desktop\code\C语言100个算法经典例题\Debug\程序49ifndef 的综合应用.exe

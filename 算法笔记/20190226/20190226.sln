@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表删减插入", "链表删减插入\链表删减插入.vcxproj", "{61A94640-8B89-43FD-9277-8D6DAA01277A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表合并", "链表合并\链表合并.vcxproj", "{C6A871EC-D29C-4864-97E1-3F18532A996D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表逆转", "链表逆转\链表逆转.vcxproj", "{ABF65025-434A-4498-9A10-85F958F28094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A94640-8B89-43FD-9277-8D6DAA01277A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61A94640-8B89-43FD-9277-8D6DAA01277A}.Debug|Win32.Build.0 = Debug|Win32
+		{61A94640-8B89-43FD-9277-8D6DAA01277A}.Release|Win32.ActiveCfg = Release|Win32
+		{61A94640-8B89-43FD-9277-8D6DAA01277A}.Release|Win32.Build.0 = Release|Win32
+		{C6A871EC-D29C-4864-97E1-3F18532A996D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C6A871EC-D29C-4864-97E1-3F18532A996D}.Debug|Win32.Build.0 = Debug|Win32
+		{C6A871EC-D29C-4864-97E1-3F18532A996D}.Release|Win32.ActiveCfg = Release|Win32
+		{C6A871EC-D29C-4864-97E1-3F18532A996D}.Release|Win32.Build.0 = Release|Win32
+		{ABF65025-434A-4498-9A10-85F958F28094}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ABF65025-434A-4498-9A10-85F958F28094}.Debug|Win32.Build.0 = Debug|Win32
+		{ABF65025-434A-4498-9A10-85F958F28094}.Release|Win32.ActiveCfg = Release|Win32
+		{ABF65025-434A-4498-9A10-85F958F28094}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

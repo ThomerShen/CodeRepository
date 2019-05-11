@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串字母数字分离", "字符串字母数字分离\字符串字母数字分离.vcxproj", "{D7BD4240-A1D2-4367-927A-E6D1EE513448}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串替换", "字符串替换\字符串替换.vcxproj", "{FD589F7B-1407-443E-ADE3-E07E08EFE9BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串删除指定字符", "字符串删除指定字符\字符串删除指定字符.vcxproj", "{C160E5A8-F51A-47CC-91EF-F057CE7E6DA7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串删除重复字符", "字符串删除重复字符\字符串删除重复字符.vcxproj", "{2B4103EA-EE2A-4859-A61A-75526E1FFE1E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串空格删除", "字符串空格删除\字符串空格删除.vcxproj", "{656A51D1-B30B-4335-98A4-72F255AC915F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "任意整数相加", "任意整数相加\任意整数相加.vcxproj", "{4B0BE830-0EE3-4C28-A1E4-017665D47622}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串最大值次大值", "字符串最大值次大值\字符串最大值次大值.vcxproj", "{A51BC4E6-990C-4894-813C-F965196557D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7BD4240-A1D2-4367-927A-E6D1EE513448}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7BD4240-A1D2-4367-927A-E6D1EE513448}.Debug|Win32.Build.0 = Debug|Win32
+		{D7BD4240-A1D2-4367-927A-E6D1EE513448}.Release|Win32.ActiveCfg = Release|Win32
+		{D7BD4240-A1D2-4367-927A-E6D1EE513448}.Release|Win32.Build.0 = Release|Win32
+		{FD589F7B-1407-443E-ADE3-E07E08EFE9BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD589F7B-1407-443E-ADE3-E07E08EFE9BF}.Debug|Win32.Build.0 = Debug|Win32
+		{FD589F7B-1407-443E-ADE3-E07E08EFE9BF}.Release|Win32.ActiveCfg = Release|Win32
+		{FD589F7B-1407-443E-ADE3-E07E08EFE9BF}.Release|Win32.Build.0 = Release|Win32
+		{C160E5A8-F51A-47CC-91EF-F057CE7E6DA7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C160E5A8-F51A-47CC-91EF-F057CE7E6DA7}.Debug|Win32.Build.0 = Debug|Win32
+		{C160E5A8-F51A-47CC-91EF-F057CE7E6DA7}.Release|Win32.ActiveCfg = Release|Win32
+		{C160E5A8-F51A-47CC-91EF-F057CE7E6DA7}.Release|Win32.Build.0 = Release|Win32
+		{2B4103EA-EE2A-4859-A61A-75526E1FFE1E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2B4103EA-EE2A-4859-A61A-75526E1FFE1E}.Debug|Win32.Build.0 = Debug|Win32
+		{2B4103EA-EE2A-4859-A61A-75526E1FFE1E}.Release|Win32.ActiveCfg = Release|Win32
+		{2B4103EA-EE2A-4859-A61A-75526E1FFE1E}.Release|Win32.Build.0 = Release|Win32
+		{656A51D1-B30B-4335-98A4-72F255AC915F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{656A51D1-B30B-4335-98A4-72F255AC915F}.Debug|Win32.Build.0 = Debug|Win32
+		{656A51D1-B30B-4335-98A4-72F255AC915F}.Release|Win32.ActiveCfg = Release|Win32
+		{656A51D1-B30B-4335-98A4-72F255AC915F}.Release|Win32.Build.0 = Release|Win32
+		{4B0BE830-0EE3-4C28-A1E4-017665D47622}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4B0BE830-0EE3-4C28-A1E4-017665D47622}.Debug|Win32.Build.0 = Debug|Win32
+		{4B0BE830-0EE3-4C28-A1E4-017665D47622}.Release|Win32.ActiveCfg = Release|Win32
+		{4B0BE830-0EE3-4C28-A1E4-017665D47622}.Release|Win32.Build.0 = Release|Win32
+		{A51BC4E6-990C-4894-813C-F965196557D6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A51BC4E6-990C-4894-813C-F965196557D6}.Debug|Win32.Build.0 = Debug|Win32
+		{A51BC4E6-990C-4894-813C-F965196557D6}.Release|Win32.ActiveCfg = Release|Win32
+		{A51BC4E6-990C-4894-813C-F965196557D6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿  main1.c
+c:\users\fenghua\desktop\code\c语言100个算法经典例题\程序16最大公约数和最小公倍数\main1.c(18): warning C4013: “gcd”未定义；假设外部返回 int
+c:\users\fenghua\desktop\code\c语言100个算法经典例题\程序16最大公约数和最小公倍数\main1.c(57): warning C4013: “system”未定义；假设外部返回 int
+c:\users\fenghua\desktop\code\c语言100个算法经典例题\程序16最大公约数和最小公倍数\main1.c(45): warning C4101: “temp”: 未引用的局部变量
+  程序16最大公约数和最小公倍数.vcxproj -> C:\Users\FENGHUA\Desktop\code\C语言100个算法经典例题\Debug\程序16最大公约数和最小公倍数.exe

@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/2/5 18:45:15。
+     1>项目“E:\Code\算法笔记\B1016(A+B)\B1016(A+B).vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>e:\code\算法笔记\b1016(a+b)\main.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>e:\code\算法笔记\b1016(a+b)\main.c(8): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\code\算法笔记\b1016(a+b)\main.c(10): error C2065: “pa”: 未声明的标识符
+     1>e:\code\算法笔记\b1016(a+b)\main.c(10): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>e:\code\算法笔记\b1016(a+b)\main.c(14): error C2065: “pb”: 未声明的标识符
+     1>e:\code\算法笔记\b1016(a+b)\main.c(14): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>e:\code\算法笔记\b1016(a+b)\main.c(17): error C2065: “pa”: 未声明的标识符
+     1>e:\code\算法笔记\b1016(a+b)\main.c(17): error C2065: “pb”: 未声明的标识符
+     1>已完成生成项目“E:\Code\算法笔记\B1016(A+B)\B1016(A+B).vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.27

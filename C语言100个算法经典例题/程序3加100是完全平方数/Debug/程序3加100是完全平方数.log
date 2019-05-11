@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\fenghua\desktop\code\c语言100个算法经典例题\程序3加100是完全平方数\main.c(11): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+c:\users\fenghua\desktop\code\c语言100个算法经典例题\程序3加100是完全平方数\main.c(12): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+  程序3加100是完全平方数.vcxproj -> C:\Users\FENGHUA\Desktop\code\C语言100个算法经典例题\Debug\程序3加100是完全平方数.exe
